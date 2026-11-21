@@ -35,6 +35,8 @@
     "GeoipHash": null,
     "GeositeHash": null,
     "DirectSites": [
+        "geosite:youtube",
+        "geosite:discord",
         "geosite:2gis",
         "geosite:category-bank-ru",
         "geosite:category-ai-ru",
@@ -60,16 +62,15 @@
     ],
     "ProxySites": [
         "geosite:7tv",
-        "geosite:discord",
         "geosite:telegram",
-        "geosite:youtube",
         "geosite:twitter"
     ],
     "BlockSites": [],
     "DirectIp": [
         "geoip:private",
         "geoip:2gis",
-        "geoip:ru"
+        "geoip:ru",
+        "72.56.95.102"
     ],
     "ProxyIp": [
         "geoip:7tv",
@@ -86,7 +87,7 @@
     "isEditable": true,
     "sortOrder": 100,
     "createdAt": 1795270252792,
-    "updatedAt": 1795271378842,
+    "updatedAt": 1795277299018,
     "sourceURL": null,
     "updateInterval": 86400,
     "sourceLastUpdated": null,
