@@ -69,8 +69,7 @@
     "DirectIp": [
         "geoip:private",
         "geoip:2gis",
-        "geoip:ru",
-        "72.56.95.102"
+        "geoip:ru"
     ],
     "ProxyIp": [
         "geoip:7tv",
