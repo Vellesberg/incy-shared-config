@@ -1,5 +1,5 @@
 {
-    "id": "22896e21-fd56-4675-877f-2953835bb66a",
+    "id": "a4e37da8-909e-45fc-bd3f-364633bde2d9",
     "Name": "Vellist [VelDigRes]",
     "description": "Пользовательский профиль",
     "type": "CUSTOM",
@@ -33,7 +33,7 @@
     "Geositeurl": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat",
     "LastUpdated": null,
     "GeoipHash": "d4ec4c5e5d5a38c1399964ea9fd8c94288426a3b31b483904b67819fc07f4466",
-    "GeositeHash": "f0320d0cf22431eace345946a5fb196a6654e3e24441dffa3ea38ef28cd44289",
+    "GeositeHash": "94e6f902cfa9d4d70ebf3c0138d9cc24175b51885c490cb673ee54f5e1b6ce6f",
     "DirectSites": [
         "geosite:youtube",
         "geosite:discord",
@@ -65,7 +65,10 @@
         "geosite:discord",
         "geosite:twitter"
     ],
-    "BlockSites": [],
+    "BlockSites": [
+        "geosite:category-ads",
+        "geosite:category-ads-all"
+    ],
     "DirectIp": [
         "geoip:private",
         "geoip:ru"
@@ -84,13 +87,13 @@
     "isEditable": true,
     "sortOrder": 100,
     "createdAt": 1795270252792,
-    "updatedAt": 1795452655542,
+    "updatedAt": 1795454157388,
     "sourceURL": null,
     "updateInterval": 86400,
     "sourceLastUpdated": null,
     "geoUpdateIntervalHours": null,
     "providerGeoUpdateIntervalHours": null,
-    "geoLastChecked": 1795288313606,
-    "providerSubscriptionId": "99be283f-bcd4-4625-8708-9552e887d2e3",
+    "geoLastChecked": 1795453102754,
+    "providerSubscriptionId": "6efb4ac4-8bc3-49b6-9183-f59226fcae19",
     "providerName": "VelDigRes"
 }
