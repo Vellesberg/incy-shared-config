@@ -65,7 +65,8 @@
     ],
     "BlockSites": [
         "geosite:category-ads",
-        "geosite:category-ads-all"
+        "geosite:category-ads-all",
+        "geosite:win-spy"
     ],
     "DirectIp": [
         "geoip:private",
