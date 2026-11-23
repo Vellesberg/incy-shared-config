@@ -1,5 +1,4 @@
 {
-    "id": "a4e37da8-909e-45fc-bd3f-364633bde2d9",
     "Name": "Vellist [VelDigRes]",
     "description": "Пользовательский профиль",
     "type": "CUSTOM",
@@ -36,7 +35,6 @@
     "GeositeHash": "94e6f902cfa9d4d70ebf3c0138d9cc24175b51885c490cb673ee54f5e1b6ce6f",
     "DirectSites": [
         "geosite:youtube",
-        "geosite:discord",
         "geosite:2gis",
         "geosite:category-bank-ru",
         "geosite:category-ai-ru",
@@ -83,17 +81,7 @@
     "UseChunkFiles": false,
     "bypassPrivateIPs": true,
     "bypassLocalDNS": false,
-    "isDefault": false,
-    "isEditable": true,
-    "sortOrder": 100,
-    "createdAt": 1795270252792,
-    "updatedAt": 1795454157388,
-    "sourceURL": null,
     "updateInterval": 86400,
-    "sourceLastUpdated": null,
     "geoUpdateIntervalHours": null,
-    "providerGeoUpdateIntervalHours": null,
-    "geoLastChecked": 1795453102754,
-    "providerSubscriptionId": "6efb4ac4-8bc3-49b6-9183-f59226fcae19",
-    "providerName": "VelDigRes"
+    "providerGeoUpdateIntervalHours": null
 }
